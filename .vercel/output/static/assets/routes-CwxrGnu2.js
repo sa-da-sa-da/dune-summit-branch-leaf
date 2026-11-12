@@ -1,0 +1,1 @@
+import{t as e}from"./studio-XzTZXch4.js";import{i as t}from"./index-DjS6RlC9.js";var n=t(),r=function(){return(0,n.jsx)(e,{initial:`rapier`})};export{r as component};

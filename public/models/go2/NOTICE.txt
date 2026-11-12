@@ -1,0 +1,5 @@
+Unitree Go2 visual meshes
+Source: google-deepmind/mujoco_menagerie (unitree_go2)
+License: BSD-3-Clause
+These assets are the MuJoCo Menagerie description derived from Unitree's public URDF.
+Not affiliated with Unitree Robotics.

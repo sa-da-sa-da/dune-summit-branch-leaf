@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Go2 物理课堂",
+      "hasCanvas": false,
+      "bodyTextLen": 244,
+      "bodyTextHash": "b59049e96720edaaceccbe9a44cbadca095bb08ccdfe4062b8be07b418d2e2d4",
+      "bodyTextPrefix": "Go2 物理课堂 参考轨迹照旧走，刚体和接触叠在上面 课堂刚体 Rapier 真机模型 MuJoCo 正在把机器狗装进教室 推一",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Go2 物理课堂",
+      "hasCanvas": false,
+      "bodyTextLen": 166,
+      "bodyTextHash": "2af187569f0dfa77c158b1b6b925ed0ce2f3c6a2e759472b0684032336353325",
+      "bodyTextPrefix": "Go2 物理课堂 参考轨迹照旧走，刚体和接触叠在上面 课堂刚体 Rapier 真机模型 MuJoCo 正在把机器狗装进教室 推一",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
